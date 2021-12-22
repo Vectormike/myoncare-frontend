@@ -1,0 +1,14 @@
+.form-control{
+	width:300px !important;
+}
+.login{
+	
+	background-color: #EF6BAB;
+}
+form{
+	background-color: #EEE5F0;
+	color:#EF6BAB;
+	padding:30px;
+	border-radius: 5px;
+	width: 500px;
+}

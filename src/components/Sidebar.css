@@ -1,0 +1,13 @@
+aside{
+background-color: #EF6BAB;
+height: 100vh;
+}
+li{
+	list-style: none;
+	color:#fff;
+	font-size: 20px;
+}
+
+.editForm {
+	width: auto;
+}

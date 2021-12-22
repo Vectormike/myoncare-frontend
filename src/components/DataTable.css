@@ -1,0 +1,14 @@
+table, th, tr, td{
+	border:1px solid #EF6BAB !important;
+	padding:10px 20px;
+}
+table{
+	width:100%;
+}
+button{
+  width:auto;
+  margin-right:5px!important;
+}
+.form-control{
+	width:100%!important;
+}

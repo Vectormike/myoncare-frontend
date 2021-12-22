@@ -1,0 +1,13 @@
+.App {
+  min-height: 100vh;
+}
+button{
+	background-color: #EF6BAB;
+	border-radius: 8px !important;
+	border:none;
+	color:#fff;
+	padding:10px;
+	width:200px;
+}
+
+

@@ -17,7 +17,11 @@ npm start
 
 ### Docker
 
-To run the server:
+To run with Docker:
+
+```
+docker-compose build
+```
 
 ```
 docker-compose up -d
